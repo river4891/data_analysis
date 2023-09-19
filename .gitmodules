@@ -1,0 +1,15 @@
+[submodule "credit_fraud"]
+	path = credit_fraud
+	url = https://github.com/river4891/credit_fraud
+[submodule "credit_default"]
+	path = credit_default
+	url = https://github.com/river4891/credit_default
+[submodule "Apriori"]
+	path = Apriori
+	url = https://github.com/river4891/Apriori
+[submodule "breast_cancer_data"]
+	path = breast_cancer_data
+	url = https://github.com/river4891/breast_cancer_data
+[submodule "PageRank"]
+	path = PageRank
+	url = https://github.com/river4891/PageRank
